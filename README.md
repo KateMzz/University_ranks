@@ -3,11 +3,11 @@
 
 1) You might need to install:
 
-pip install requests
-pip install bs4
-pip install pandas
-pip install selenium
-pip install lxml
+pip install requests;
+pip install bs4;
+pip install pandas;
+pip install selenium;
+pip install lxml;
 
 2) Check your Chrome version (Help - About Google Chrome)
 
